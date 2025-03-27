@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Which programming language is known as the 'mother of all languages'?",
+      "options": ["C", "Python", "Assembly", "Fortran"],
+      "correct": 3
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["HyperText Markup Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyper Transfer Markup Language"],
+      "correct": 0
+    },
+    {
+      "question": "Which company developed the Java programming language?",
+      "options": ["Microsoft", "Sun Microsystems", "IBM", "Oracle"],
+      "correct": 1
+    },
+    {
+      "question": "What is the main purpose of CSS?",
+      "options": ["Structure web pages", "Style web pages", "Add interactivity", "Manage databases"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is a JavaScript framework?",
+      "options": ["Django", "Laravel", "React", "Flask"],
+      "correct": 2
+    },
+    {
+      "question": "What is the default port for HTTP?",
+      "options": ["80", "443", "21", "22"],
+      "correct": 0
+    },
+    {
+      "question": "Which database is a NoSQL database?",
+      "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+      "correct": 2
+    },
+    {
+      "question": "What is the full form of API?",
+      "options": ["Advanced Programming Interface", "Application Programming Interface", "Automated Program Integration", "Applied Protocol Integration"],
+      "correct": 1
+    },
+    {
+      "question": "What does 'Git' help with?",
+      "options": ["Web Development", "Version Control", "Database Management", "Server Hosting"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a cloud computing platform?",
+      "options": ["AWS", "React", "Node.js", "Django"],
+      "correct": 0
+    }
+  ]
+  
