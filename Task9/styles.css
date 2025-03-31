@@ -17,7 +17,7 @@ header {
     font-weight: bold;
 }
 
-/* Posts Container */
+
 #content {
     width: 80%;
     max-width: 800px;
@@ -27,7 +27,7 @@ header {
     gap: 20px;
 }
 
-/* Post Card */
+
 .post {
     background: white;
     padding: 20px;
