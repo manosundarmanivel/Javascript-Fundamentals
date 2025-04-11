@@ -1,0 +1,242 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Noise-Canceling Headphones",
+      "price": 299.99,
+      "description": "Premium over-ear headphones with 40hr battery life",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 2,
+      "name": "Stainless Steel Coffee Maker",
+      "price": 129.95,
+      "description": "12-cup programmable coffee machine with thermal carafe",
+      "category": "Home & Kitchen",
+      "image": "https://images.unsplash.com/photo-1551033406-611cf9a28f67"
+    },
+    {
+      "id": 3,
+      "name": "Men's Waterproof Winter Jacket",
+      "price": 189.00,
+      "description": "Insulated parka with hood, suitable for -30°C",
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3"
+    },
+    {
+      "id": 4,
+      "name": "Ceramic Non-Stick Cookware Set",
+      "price": 199.50,
+      "description": "10-piece ceramic coated cookware set",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1583778176476-4a8b02a64c01"
+    },
+    {
+      "id": 5,
+      "name": "Wireless Security Camera System",
+      "price": 249.00,
+      "description": "4K resolution with night vision and motion detection",
+      "category": "Smart Home",
+      "image": "https://images.unsplash.com/photo-1591378603223-e15b45a81640"
+    },
+    {
+      "id": 6,
+      "name": "Professional Blender",
+      "price": 159.99,
+      "description": "1500W high-speed blender with 8 presets",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1560015534-dd1d9d6d863d"
+    },
+    {
+      "id": 7,
+      "name": "Hybrid Smartwatch",
+      "price": 179.95,
+      "description": "Health tracking with 2-week battery life",
+      "category": "Wearables",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12"
+    },
+    {
+      "id": 8,
+      "name": "Ergonomic Office Chair",
+      "price": 349.00,
+      "description": "Adjustable lumbar support with headrest",
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1519947486511-46149ad0d8a6"
+    },
+    {
+      "id": 9,
+      "name": "Electric Air Fryer",
+      "price": 89.99,
+      "description": "6QT capacity with digital touchscreen",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1613243555978-636c48dc653c"
+    },
+    {
+      "id": 10,
+      "name": "Wireless Charging Station",
+      "price": 49.95,
+      "description": "3-in-1 charger for phone/watch/earbuds",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1606226454386-9a5c0b6f5244"
+    },
+    {
+      "id": 11,
+      "name": "Yoga Mat with Alignment Guide",
+      "price": 39.99,
+      "description": "Eco-friendly 6mm thick non-slip mat",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c"
+    },
+    {
+      "id": 12,
+      "name": "Electric Toothbrush",
+      "price": 79.95,
+      "description": "Sonic technology with 4 brush heads",
+      "category": "Personal Care",
+      "image": "https://images.unsplash.com/photo-1588412195830-24a0d8d7a80b"
+    },
+    {
+      "id": 13,
+      "name": "Portable Power Bank",
+      "price": 59.99,
+      "description": "30000mAh with PD fast charging",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1587156191250-86204a7d5bbf"
+    },
+    {
+      "id": 14,
+      "name": "Leather Messenger Bag",
+      "price": 199.00,
+      "description": "Full-grain leather with laptop compartment",
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1601925265582-0b9a9b3b0f6c"
+    },
+    {
+      "id": 15,
+      "name": "Bluetooth Earbuds",
+      "price": 129.95,
+      "description": "True wireless with noise cancellation",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1590658006821-04f4008d5717"
+    },
+    {
+      "id": 16,
+      "name": "Digital Air Fryer Oven",
+      "price": 149.99,
+      "description": "12-in-1 convection oven with rotisserie",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1615872325608-aeb5e9cb0a07"
+    },
+    {
+      "id": 17,
+      "name": "Smart LED Light Strips",
+      "price": 39.99,
+      "description": "Voice-controlled RGB lighting system",
+      "category": "Smart Home",
+      "image": "https://images.unsplash.com/photo-1617043983673-2c3a2be8ae8e"
+    },
+    {
+      "id": 18,
+      "name": "Wireless Gaming Mouse",
+      "price": 79.95,
+      "description": "RGB lighting with 16000 DPI sensor",
+      "category": "Computers",
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7"
+    },
+    {
+      "id": 19,
+      "name": "Electric Kettle",
+      "price": 45.99,
+      "description": "Stainless steel with temperature control",
+      "category": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1606755456206-b25206bde3ba"
+    },
+    {
+      "id": 20,
+      "name": "Fitness Tracker Watch",
+      "price": 99.95,
+      "description": "24/7 heart rate and sleep monitoring",
+      "category": "Wearables",
+      "image": "https://images.unsplash.com/photo-1589476993333-f55b84301219"
+    },
+    {
+      "id": 21,
+      "name": "Wireless Keyboard",
+      "price": 89.99,
+      "description": "Slim design with silent mechanical switches",
+      "category": "Computers",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "id": 22,
+      "name": "Electric Massage Gun",
+      "price": 199.00,
+      "description": "Professional-grade deep tissue massager",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1591382386627-349b692688ff"
+    },
+    {
+      "id": 23,
+      "name": "4K Action Camera",
+      "price": 299.95,
+      "description": "Waterproof camera with image stabilization",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1554866585-cd94860890b7"
+    },
+    {
+      "id": 24,
+      "name": "Adjustable Dumbbell Set",
+      "price": 349.00,
+      "description": "5-50 lbs quick-select weights",
+      "category": "Fitness",
+      "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c"
+    },
+    {
+      "id": 25,
+      "name": "Robot Vacuum Cleaner",
+      "price": 399.00,
+      "description": "LiDAR navigation with self-empty base",
+      "category": "Smart Home",
+      "image": "https://images.unsplash.com/photo-1558442074-3c19857bc1dc"
+    },
+    {
+      "id": 26,
+      "name": "Electric Standing Desk",
+      "price": 449.00,
+      "description": "Height adjustable with memory presets",
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1585637071663-799845ad5212"
+    },
+    {
+      "id": 27,
+      "name": "Noise Canceling Earbuds",
+      "price": 179.95,
+      "description": "True wireless with spatial audio",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1591378603223-e15b45a81640"
+    },
+    {
+      "id": 28,
+      "name": "Smart Digital Picture Frame",
+      "price": 199.00,
+      "description": "10.1\" HD display with cloud storage",
+      "category": "Smart Home",
+      "image": "https://images.unsplash.com/photo-1583418855869-9085b8a5c657"
+    },
+    {
+      "id": 29,
+      "name": "Electric Scooter",
+      "price": 599.00,
+      "description": "25mph max speed, 30-mile range",
+      "category": "Transportation",
+      "image": "https://images.unsplash.com/photo-1573322864401-86a5b85c7c7b"
+    },
+    {
+      "id": 30,
+      "name": "UV Sanitizer Box",
+      "price": 79.95,
+      "description": "Portable sterilization for small items",
+      "category": "Home Essentials",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae"
+    }
+  ]

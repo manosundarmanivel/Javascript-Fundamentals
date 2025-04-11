@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eCommerce Store</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <header>
+        <h1>Tech Store</h1>
+        <div class="cart-summary">
+            <span id="cartCount">0 items</span>
+            <button id="viewCart">🛒 View Cart</button>
+        </div>
+    </header>
+
+    <div class="controls">
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Search products...">
+        </div>
+        <div class="categories" id="categories"></div>
+    </div>
+
+    <main>
+        <section class="products" id="products">
+            
+        </section>
+        
+        <aside class="cart" id="cart">
+            <div class="cart-header">
+                <h2>Your Cart</h2>
+                <button id="closeCart">&times;</button>
+            </div>
+            <div class="cart-items" id="cartItems"></div>
+            <div class="cart-totals">
+                <div class="totals-row">
+                    <span>Subtotal:</span>
+                    <span>$<span id="subtotal">0.00</span></span>
+                </div>
+                <div class="totals-row">
+                    <span>Tax (10%):</span>
+                    <span>$<span id="tax">0.00</span></span>
+                </div>
+                <div class="totals-row discount-row">
+                    <span>Discount:</span>
+                    <span>-$<span id="discount">0.00</span></span>
+                </div>
+                <div class="totals-row total-row">
+                    <span>Total:</span>
+                    <span>$<span id="total">0.00</span></span>
+                </div>
+                <div class="discount-input">
+                    <input type="text" id="discountCode" placeholder="Enter discount code">
+                    <button id="applyDiscount">Apply</button>
+                </div>
+                <button class="checkout-btn">Proceed to Checkout</button>
+            </div>
+        </aside>
+    </main>
+
+    <script type="module" src="scripts/app.js"></script>
+</body>
+</html>
